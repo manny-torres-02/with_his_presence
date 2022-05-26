@@ -1,0 +1,16 @@
+/* * {
+    border
+} */
+
+.card {
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+    border: solid white 1px;
+    border-radius: 25%;
+    box-shadow: 5px 5px 10px grey;
+    margin-bottom: 15px;
+}
+p { 
+    padding: 10px 10px; 
+}

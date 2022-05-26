@@ -1,0 +1,16 @@
+.form-container {
+width: 50%;
+height: 500px;
+margin:auto;
+margin-top: 50px;
+background-color: rgb(240, 240, 240);
+
+}
+
+
+form {
+    margin: auto;
+    height: inherit;
+    width: 50%;
+
+}
